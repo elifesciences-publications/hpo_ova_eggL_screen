@@ -1,3 +1,8 @@
+This code is associated with the paper from Kumar et al., "Topology-driven protein-protein
+interaction network analysis detects
+genetic sub-networks regulating
+reproductive capacity". eLife, 2020. http://doi.org/10.7554/eLife.54082
+
 # Topology-driven protein-protein interaction network analysis detects genetic sub-networks regulating reproductive capacity
 
 Tarun Kumar<sup>1</sup>, Leo Blondel<sup>2</sup> & Cassandra G. Extavour<sup>1,2</sup>
